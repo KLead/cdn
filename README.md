@@ -1,2 +1,2 @@
 # cdn
-静态资源存储加速
+Static resource storage acceleration
